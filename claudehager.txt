@@ -7,6 +7,7 @@ Working primarily with .NET and Splunk
 My favorite animal is my dog, Sydney
 My favorite flavor is tangerine
 My favorite color is Purple
+My favorite city is San Francisco, CA
 And here is some exciting new info on my profile...
 
 
