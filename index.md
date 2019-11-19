@@ -2,3 +2,5 @@
 
 * Ryan Morris
 * Josh Rodman
+* Claude Hager
+
