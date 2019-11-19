@@ -2,3 +2,5 @@ dogs
 running
 Ironman competitions
 Kona
+
+favorite city: Chattanooga
